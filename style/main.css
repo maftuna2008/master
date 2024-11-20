@@ -279,24 +279,34 @@ a {
   margin-top: 120px;
   margin-bottom: 80px;
 }
+
 /* .section */
 .web {
   width: 1600px;
   height: 766px;
   background-color: #404040;
 }
-.bacround4 {
-  background-image: url("../imeges/Rectangle\ 62.png");
+
+.bacraund4 {
+  width: 231px;
+  height: 78px;
+  border-radius: 30px;
+  background-color: #ffffff;
+  margin-left: 275px;
+  margin-bottom: 65px;
 }
+
 .hhh {
   display: flex;
-  gap:46px;
+  gap: 46px;
 }
+
 .img10 {
   width: 60px;
   height: 44px;
-  margin-top:27px;
+  margin-top: 37px;
 }
+
 .ooo {
   width: 238px;
   height: 34px;
@@ -309,5 +319,127 @@ a {
   text-underline-position: from-font;
   text-decoration-skip-ink: none;
   color: #ffffff;
-  margin-top: 37px;
+  margin-top: 50px;
+}
+
+.telegram {
+  display: flex;
+  gap: 150px;
+  margin-top: 90px;
+}
+
+.fff {
+  font-family: Montserrat;
+  font-size: 35px;
+  font-weight: 700;
+  line-height: 42.67px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #ffffff;
+  padding-top: 120px;
+}
+
+/* .section */
+.uuu {
+  font-family: Montserrat;
+  font-size: 35px;
+  font-weight: 700;
+  line-height: 42.67px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #000000;
+  margin-top: 120px;
+}
+
+.nnn {
+  width: 1048px;
+  height: 60px;
+  font-family: Montserrat;
+  font-size: 12px;
+  text-align: center;
+  color: #000000;
+  margin-top: 80px;
+  margin-bottom: 78px;
+  margin-left: 276px;
+}
+
+.imglar {
+  display: flex;
+  gap: 31px;
+  margin-left: 275px;
+  margin-bottom: 40px;
+}
+
+.imglar1 {
+  margin-left: 455px;
+  display: flex;
+  gap: 31px;
+}
+
+/* .section */
+.mmm {
+  margin-top: 120px;
+  width: 1600px;
+  height: 1059px;
+  background-color: #404040;
+}
+
+.color {
+  width: 330px;
+  height: 323px;
+  border-radius: 30px;
+  background-color: #ffffff;
+}
+
+.ggg {
+  width: 272px;
+  height: 51px;
+  font-family: Montserrat;
+  font-size: 14px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #000000;
+  margin-top: 30px;
+  /* margin-bottom: 15px; */
+  margin-left: 28px;
+}
+.zzz{
+ margin-left: 120px;
+ margin-top: 14px;
+}
+.xxx {
+  width: 272px;
+  height: 102px;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 17.07px;
+  text-align:left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #000000;
+  margin-left: 28px;
+}
+
+.kkk {
+  display: flex;
+  gap: 29px;
+  margin-left: 276px;
+  margin-bottom: 50px;
+}
+
+.qq {
+  font-family: Montserrat;
+  font-size: 35px;
+  font-weight: 700;
+  line-height: 42.67px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #ffffff;
+  padding-top:120px ;
+  margin-bottom: 80px;
 }
