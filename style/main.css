@@ -275,7 +275,39 @@ a {
   text-align: center;
   text-underline-position: from-font;
   text-decoration-skip-ink: none;
- text-align: center;
- margin-top: 120px;
- margin-bottom: 80px;
+  text-align: center;
+  margin-top: 120px;
+  margin-bottom: 80px;
+}
+/* .section */
+.web {
+  width: 1600px;
+  height: 766px;
+  background-color: #404040;
+}
+.bacround4 {
+  background-image: url("../imeges/Rectangle\ 62.png");
+}
+.hhh {
+  display: flex;
+  gap:46px;
+}
+.img10 {
+  width: 60px;
+  height: 44px;
+  margin-top:27px;
+}
+.ooo {
+  width: 238px;
+  height: 34px;
+  top: 4326px;
+  left: 367px;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 17.07px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #ffffff;
+  margin-top: 37px;
 }
