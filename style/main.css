@@ -1,0 +1,281 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  width: 1600px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.wrap {
+  /* margin: 0 auto;
+  background-color: #404040;
+  width: 1660px; */
+}
+
+.frame {
+  background-color: #404040;
+  width: 1660px;
+  height: 79px;
+  display: flex;
+  gap: 23px;
+  padding: 22px 240px 23px 260px;
+}
+
+.p1 {
+  font-family: Montserrat;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 14.63px;
+  color: #ffffff;
+}
+
+.p2 {
+  font-family: Montserrat;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 14.63px;
+  color: #ffffff;
+  /* margin-top: 32px;
+ margin-bottom: 32px; */
+}
+
+.btn1 {
+  background-color: #ffffff;
+  color: #000000;
+  width: 240px;
+  height: 50px;
+  top: 15px;
+  border-radius: 30px;
+  border: none;
+  margin-left: 40px;
+}
+
+/* .main */
+.count {
+  width: 1900px;
+  height: 79px;
+  background-color: #ffffff;
+  display: flex;
+  gap: 67px;
+  margin-left: 275px;
+  margin-right: 178px;
+}
+
+.ul {
+  display: flex;
+  gap: 49px;
+}
+
+.link {
+  font-size: 16px;
+  color: #000000;
+}
+
+.ul {
+  margin-top: 32px;
+}
+
+/* .section */
+.bacraound {
+  width: 106%;
+  height: 532px;
+  background-image: url("../imeges/Rectangle\ 5.png");
+  background-size: cover;
+  background-position: center;
+}
+
+.bacraund1 {
+  /* width: 782px;
+    height: 261px; */
+  padding: 136px 409px;
+  text-align: center;
+}
+
+.main {
+  font-family: Montserrat;
+  font-size: 40px;
+  color: #ffffff;
+}
+
+.style {
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 17.07px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #ffffff;
+  margin-top: 25px;
+  margin-bottom: 32px;
+}
+
+.button {
+  width: 240px;
+  height: 60px;
+  border-radius: 30px;
+  background-color: #e05100;
+  font-family: Montserrat;
+  font-size: 16px;
+  text-align: center;
+  color: #ffffff;
+  border: none;
+}
+
+/* .section */
+.h11 {
+  color: rgb(0, 0, 0);
+  font-family: Montserrat;
+  font-size: 35px;
+  font-weight: 700;
+  line-height: 43px;
+  letter-spacing: 0%;
+  text-align: center;
+  margin: 120px 613px 56px 613px;
+}
+
+.css {
+  /* Rectangle 16 */
+  /* position: absolute; */
+  width: 240px;
+  height: 264px;
+  border-radius: 30px;
+  box-shadow: 4px 4px 20px 0px rgba(0, 0, 0, 0.25);
+  background: rgb(255, 255, 255);
+}
+
+.sunny {
+  padding: 60px 32px 44px 32px;
+}
+
+.maftuna {
+  /* padding-left: 32px; */
+  color: rgb(0, 0, 0);
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 17px;
+  letter-spacing: 0%;
+  text-align: center;
+}
+
+.csslar {
+  display: flex;
+  gap: 30px;
+  margin-top: 62px;
+}
+
+.csslar2 {
+  margin-left: 276px;
+  /* margin-bottom: 252px; */
+}
+
+.button4 {
+  width: 266px;
+  height: 60px;
+  border-radius: 30px;
+  background-color: #e05100;
+  font-family: Montserrat;
+  font-size: 16px;
+  text-align: center;
+  color: #ffffff;
+  border: none;
+  margin-left: 681px;
+  margin-top: 72px;
+  margin-bottom: 120px;
+}
+
+/* .section */
+.outline {
+  display: flex;
+  gap: 68px;
+  width: 1600px;
+  background-color: #404040;
+}
+
+.class {
+  font-family: Montserrat;
+  font-size: 35px;
+  font-weight: 700;
+  line-height: 42.67px;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #ffffff;
+  margin-top: 120px;
+}
+
+.id {
+  font-family: Montserrat;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 24.38px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #ffffff;
+  margin-top: 80px;
+  margin-bottom: 31px;
+  width: 706px;
+  height: 48px;
+}
+
+.ppp {
+  width: 705px;
+  height: 248px;
+  font-family: Montserrat;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 14.63px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+
+.button3 {
+  width: 240px;
+  height: 60px;
+  top: 2341px;
+  left: 816px;
+  gap: 0px;
+  border-radius: 30px;
+  opacity: 0px;
+  background-color: #e05100;
+  color: #ffffff;
+  font-size: 16px;
+  border: none;
+  margin-top: 80px;
+}
+
+/* .section */
+.family {
+  display: flex;
+  gap: 30px;
+  margin-left: 275px;
+}
+
+.vector {
+  font-family: Montserrat;
+  font-size: 35px;
+  font-weight: 700;
+  line-height: 42.67px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+ text-align: center;
+ margin-top: 120px;
+ margin-bottom: 80px;
+}
