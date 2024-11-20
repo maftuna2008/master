@@ -26,7 +26,7 @@ a {
 
 .frame {
   background-color: #404040;
-  width: 1660px;
+  width: 1600px;
   height: 79px;
   display: flex;
   gap: 23px;
@@ -64,7 +64,7 @@ a {
 
 /* .main */
 .count {
-  width: 1900px;
+  width: 1600px;
   height: 79px;
   background-color: #ffffff;
   display: flex;
@@ -89,7 +89,7 @@ a {
 
 /* .section */
 .bacraound {
-  width: 106%;
+  width: 102%;
   height: 532px;
   background-image: url("../imeges/Rectangle\ 5.png");
   background-size: cover;
