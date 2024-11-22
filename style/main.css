@@ -264,7 +264,8 @@ a {
 .family {
   display: flex;
   gap: 30px;
-  margin-left: 275px;
+  margin-left: 265px;
+  margin-bottom: 129px;
 }
 
 .vector {
@@ -406,10 +407,12 @@ a {
   /* margin-bottom: 15px; */
   margin-left: 28px;
 }
-.zzz{
- margin-left: 120px;
- margin-top: 14px;
+
+.zzz {
+  margin-left: 120px;
+  margin-top: 14px;
 }
+
 .xxx {
   width: 272px;
   height: 102px;
@@ -417,7 +420,7 @@ a {
   font-size: 14px;
   font-weight: 400;
   line-height: 17.07px;
-  text-align:left;
+  text-align: left;
   text-underline-position: from-font;
   text-decoration-skip-ink: none;
   color: #000000;
@@ -440,6 +443,70 @@ a {
   text-underline-position: from-font;
   text-decoration-skip-ink: none;
   color: #ffffff;
-  padding-top:120px ;
+  padding-top: 120px;
   margin-bottom: 80px;
+}
+
+/* .section */
+.ullar {
+  display: flex;
+  gap: 118px;
+  margin-top: 60px;
+  margin-bottom: 20px;
+}
+
+
+.listlar1 {
+  margin-right: 200px;
+  margin-left: 260px;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 23.44px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #e05100;
+}
+
+.listlar {
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 23.44px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #e05100;
+}
+
+
+.li1 {
+  margin-bottom: 15px;
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 14.06px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #000000;
+}
+
+.bbb {
+  display: flex;
+  gap: 118px;
+  margin-right: 270px;
+}
+
+.iii {
+  margin: 94px 702px 31px 702px;
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 14.06px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+
 }
